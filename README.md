@@ -1,2 +1,3 @@
 # tictactoe
 Tic-tac-toe is a game in which two players take turns in drawing either an ` O' or an ` X' in one square of a grid consisting of nine squares. The winner is the first player to get three of the same symbols in a row.
+"Dive into the world of Java-powered gaming with our Tic Tac Toe masterpiece! Crafted with Java Swing, this game boasts a captivating graphical interface that's both clean and user-friendly. Challenge your friends to intense matches or sharpen your skills against our AI opponent. With responsive gameplay, win detection algorithms ensuring fair outcomes, and a sleek restart option, every move feels strategic and satisfying. Whether you're a seasoned player or new to the game, our Java Tic Tac Toe delivers endless fun and excitement!"
